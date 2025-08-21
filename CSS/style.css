@@ -1,5 +1,21 @@
+.navbar-brand{
+    margin:5px 0 0 0 ;
+}
+.navbar-login{
+    font-size:15px;
+    font-weight: 600; 
+}
+.nav-item{
+    padding:0 10px 0 0;
+    list-style: none;
+}
+.nav-link{
+    margin:12px 0 0 0;
+    color: #4A4A4A;
+    padding:0 0 0 30px;
+}
 .button{
-    padding:0 10px 0 10px ;
+    margin:16px 0 0 0;
     color: #4A4A4A;
 }
 .navbar-nav{
