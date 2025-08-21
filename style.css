@@ -1,5 +1,7 @@
 .navbar-nav{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .logo{
     margin:5px 0 0 0 ;
