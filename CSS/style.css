@@ -1,3 +1,6 @@
+.navbar-brand{
+    margin:5px 0 0 0 ;
+}
 .navbar-login{
     font-size:15px;
     font-weight: 600; 
@@ -14,7 +17,11 @@
     margin:16px 0 0 0;
     color: #4A4A4A;
 }
-
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .singup{
     border: none;
     padding: 19px 37px;
